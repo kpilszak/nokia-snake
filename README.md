@@ -18,7 +18,7 @@ Project is created with:
 * JavaScript  
 
 ## Setup
-To run this project, open this in a new tab: <a href="https://kpilszak.github.io/rgb-color-game/">https://kpilszak.github.io/rgb-color-game/</a>
+To run this project, open this in a new tab: <a href="https://kpilszak.github.io/nokia-snake/">https://kpilszak.github.io/nokia-snake/</a>
 
 ## Sources
 This project has been created thanks to Ania Kubów tutorial <a href="https://www.youtube.com/watch?v=rui2tRRVtc0">BUILD NOKIA 3310 SNAKE using JavaScript in under 15 minutes</a> from Youtube.
